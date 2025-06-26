@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Mountain Adventure",
+      "description": "Experience the thrill of mountain hiking.",
+      "image": "https://picsum.photos/300?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Beach Escape",
+      "description": "Relax on the sunny beaches of the tropics.",
+      "image": "https://picsum.photos/300?random=2"
+    },
+    {
+      "id": 3,
+      "title": "City Lights",
+      "description": "Explore the bustling city life at night.",
+      "image": "https://picsum.photos/300?random=3"
+    }
+  ]
+  

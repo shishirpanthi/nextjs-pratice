@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Card One",
+    "description": "This is the first card.",
+    "image": "/images/card1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Card Two",
+    "description": "This is the second card.",
+    "image": "/images/card2.jpg"
+  }
+]

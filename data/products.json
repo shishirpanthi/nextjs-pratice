@@ -1,0 +1,17 @@
+[
+    {
+      "categoryId": "electronics",
+      "products": [
+        { "id": "1", "name": "Laptop", "description": "A powerful laptop." },
+        { "id": "2", "name": "Smartphone", "description": "A modern smartphone." }
+      ]
+    },
+    {
+      "categoryId": "books",
+      "products": [
+        { "id": "1", "name": "Book A", "description": "An amazing book." },
+        { "id": "2", "name": "Book B", "description": "Another great read." }
+      ]
+    }
+  ]
+  
